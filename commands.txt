@@ -1,0 +1,7 @@
+Commands used in linux-shell
+
+1) ls - listing all the files and folders in current directory
+2) cd  - change directory
+3) pwd - to know  the  present directory
+4) touch - to create files
+5) mkdir - creating the folder or new directory
