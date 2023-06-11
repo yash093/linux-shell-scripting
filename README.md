@@ -31,8 +31,8 @@ To get started with the scripts in this repository, follow these steps:
 Please note that some scripts might require certain dependencies or permissions. Refer to the script's documentation for specific requirements.
 ## Scripts
 Here are some of the scripts you will find in this repository:
- - **script_name.sh**: Brief description of the script and its purpose.
- - **script_name.sh**: Brief description of the script and its purpose.
+ - **nodeHealth.sh**: outputs the data like memory usage and no. of CPUs.
+ - **ifElse.sh**: script for demostrating ef else in shell.
  
 ## Contributing
 Contributions to this repository are welcome! If you have any improvements, bug fixes, or additional scripts that you would like to share, please feel free to submit a pull request. Ensure that your contributions adhere to the repository's code of conduct.
