@@ -1,7 +1,25 @@
 Commands used in linux-shell
 
-1) ls - listing all the files and folders in current directory
-2) cd  - change directory
-3) pwd - to know  the  present directory
-4) touch - to create files
-5) mkdir - creating the folder or new directory
+1) ls :- listing all the files and folders in current directory
+2) cd  :- change directory
+3) pwd :- to know  the  present directory
+4) touch :- to create files
+5) mkdir :- creating the folder or new directory
+6) set - x :- debug mode
+7) echo :- printing the data
+8) nproc :- no. of cpu
+9) df :- printing the disk space 
+10) free :- info about memory
+11) top :- gives all  the info about node
+12) vim :- file editor
+13) cat :- displays theh content of file 
+14) "suffix any cmd " man :- provides the info about the command
+15) ps -ef :- find out processes running
+16) ps -ef | grep "python" :- gives all the process  running by  python
+17) | :- this is pipe parameter, sends the  output  of first cmd to second cmd
+18) awk :- gives the  specific  column from the  output
+19) set -e :- to stop the script when  encountered with an error 
+20) set -o pipefail :- in case of pipe 
+21) curl :- to retrieve the info from web
+22) wget :- works like curl but first it downloads the file 
+23) trap :- to  trap the signals
