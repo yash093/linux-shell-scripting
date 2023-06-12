@@ -1,0 +1,37 @@
+1) List some of the commonly used shell commands 
+ls 
+cd 
+mv 
+mkdir
+touch 
+sudo -s
+vim
+ps -ef 
+
+2) write shell script to list all the processes
+ps -ef
+ps -ef | grep "python" | awk -F" " '{print($2)}'
+
+3) write a script to print only errors  from a remote log
+curl -{link} | grep "error"
+
+4) write a shell  script  to print numbers  divided by 3, 5 and not 15
+printNumbers.sh
+5) write shell script to print number of  "S" in mississippi
+countS.sh
+6) how to debug the shell script
+set -x
+
+7) what is crontab in linux ? exemplify
+crontab is sed to schedule the script like  every morning I have to submit the report of node health 
+
+8) how to open file in read only mode  ?
+vim -r file.exe
+
+9) difference between soft link and hard link ?
+10) is bash staticaclly typed or dynamically typed ?
+it is dynamically typed
+11) how to sort list of  names in file ?
+sort
+12) how to manage logs  of system   that generate huge logs files every day 
+using logrotate
