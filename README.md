@@ -8,7 +8,6 @@ Welcome to the Linux Shell Scripting repository! This repository is dedicated to
 - [Getting Started](#getting-started)
 - [Scripts](#scripts)
 - [Contributing](#contributing)
-- [License](#license)
 
 ## Introduction
 
@@ -43,19 +42,14 @@ Please note that some scripts might require certain dependencies or permissions.
 
 ## Scripts
 
-Here are some of the scripts you will find in this repository:
+Here are some of the example of scripts you will find in this repository:
 
 - **nodeHealth.sh**: outputs the data like memory usage and no. of CPUs.
 - **ifElse.sh**: script for demostrating if else in shell.
 
 ## Contributing
 
-Contributions to this repository are welcome! If you have any improvements, bug fixes, or additional scripts that you would like to share, please feel free to submit a pull request. Ensure that your contributions adhere to the repository's code of conduct.
-
-## License
-
-This repository is licensed under the [MIT License](LICENSE).
-Feel free to use the code and scripts provided here for personal or commercial purposes.
+Contributions to this repository are welcome! If you would like to share additional scripts, please feel free to submit a pull request.
 
 Happy scripting!
 
